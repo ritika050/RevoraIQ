@@ -1,0 +1,11 @@
+[
+  "tests/test_api.py::test_health_and_generate",
+  "tests/test_engines.py::test_decision_critical_blocks",
+  "tests/test_engines.py::test_decision_low_allows",
+  "tests/test_engines.py::test_risk_scoring_suspicious_signals",
+  "tests/test_engines.py::test_severity_bands",
+  "tests/test_engines.py::test_validate_event_ok",
+  "tests/test_engines.py::test_validate_event_rejects_missing_user",
+  "tests/test_ml_ai.py::test_anomaly_detector_flags_spike",
+  "tests/test_ml_ai.py::test_local_ai_reasoning_is_human_readable"
+]
