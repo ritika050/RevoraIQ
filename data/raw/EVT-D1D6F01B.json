@@ -1,0 +1,16 @@
+{
+  "event_id": "EVT-D1D6F01B",
+  "user_id": "USR-102",
+  "source": "transaction",
+  "event_type": "payment",
+  "transaction_amount": 75000.0,
+  "currency": "INR",
+  "device_id": "DEV-NEW-91",
+  "location": "Delhi",
+  "beneficiary": "NEW-BEN-99",
+  "timestamp": "2026-09-05T19:39:02+00:00",
+  "metadata": {
+    "simulated": true,
+    "mode": "suspicious"
+  }
+}

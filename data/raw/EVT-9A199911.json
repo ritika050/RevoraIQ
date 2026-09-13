@@ -1,0 +1,16 @@
+{
+  "event_id": "EVT-9A199911",
+  "user_id": "USR-102",
+  "source": "transaction",
+  "event_type": "payment",
+  "transaction_amount": 800.0,
+  "currency": "INR",
+  "device_id": "DEV-12",
+  "location": "Mumbai",
+  "beneficiary": "BEN-01",
+  "timestamp": "2026-09-05T19:39:02+00:00",
+  "metadata": {
+    "simulated": true,
+    "mode": "normal"
+  }
+}
